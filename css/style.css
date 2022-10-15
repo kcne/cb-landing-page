@@ -637,7 +637,7 @@ h2 {
 	}
 }
 
-@media (min-width:600px) {
+@media (min-width:1350px) {
 	.social .row a {
 		display: none;
 	}
