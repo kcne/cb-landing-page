@@ -630,7 +630,7 @@ h2 {
 .social-sticky li p a:hover{
     text-decoration:underline;
 }
-@media (max-width: 600px){
+@media (max-width: 1350px){
 	.social-sticky-container .social-sticky {
 		display: none;
 		
@@ -1591,4 +1591,27 @@ nav{
 	right: 30px;
 	bottom: 30px;
 	z-index: 99;
+	background-color: #cdb492;
+	border-color: #cdb492;
+	color:#000000;
+  }
+  .back-to-top:active{
+	background-color: #cdb492;
+	border-color: #cdb492;
+  }
+  .back-to-top:visited{
+	background-color: #cdb492;
+	border-color: #cdb492;
+	color:black;
+  }
+
+ #info1 a:hover{
+	text-decoration: none;
+  }
+  #info1 .info-title{
+	padding:0;
+  }
+  #feautre-details1{
+	padding:15px;
+	padding:60px;
   }
